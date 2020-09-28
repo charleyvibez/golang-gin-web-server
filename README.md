@@ -8,4 +8,4 @@ The sample app is up at https://go-gin.simplifyd.app.
 
 ## How to deploy on Simplifyd
 
-See the guide at https://docs.simplifyd.com.
+See the guide at https://docs.simplifyd.com/go/.
